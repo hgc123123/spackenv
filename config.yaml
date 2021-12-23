@@ -1,0 +1,21 @@
+config:
+  # This is the path to the root of the Spack install tree.
+  # You can use $spack here to refer to the root of the spack instance.
+  install_tree:
+    root: /dssg/opt/software/install 
+    projections:
+      all: "${ARCHITECTURE}/${COMPILERNAME}-${COMPILERVER}/${PACKAGE}-${VERSION}-${HASH}"
+  # Locations where templates should be found
+  template_dirs:
+    - $spack/share/spack/templates
+
+  # The build stage can be purged with `spack clean --stage` and
+  # `spack clean -a`, so it is important that the specified directory uniquely
+  # identifies Spack staging to avoid accidentally wiping out non-Spack work.
+  module_roots:
+    tcl: /dssg/share/spack/modules
+    lmod: /dssg/share/spack/lmod 
+  build_stage:
+    - $tempdir/$user/spack-stage
+  test_stage: $user_cache_path/test
+  connect_timeout: 10

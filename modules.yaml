@@ -1,0 +1,38 @@
+modules:
+  # These are configurations for the module set named "default"
+  default:
+    # These values are defaulted in the code. They are not defaulted here so
+    # that we can enable backwards compatibility with the old syntax more
+    # easily (old value is in the config yaml, config:module_roots)
+    # Where to install modules
+    # roots:
+    #  tcl:    $spack/share/spack/modules
+    #  lmod:   $spack/share/spack/lmod
+    # What type of modules to use
+    enable:
+      - tcl
+    tcl:
+      hash_length: 0
+      projections: 
+        all: '${PACKAGE}/${VERSION}-${COMPILERNAME}-${COMPILERVER}'
+        gcc: '${PACKAGE}/${VERSION}'
+        intel-oneapi-compilers: '${PACKAGE}/${VERSION}'
+        intel-oneapi-mkl: '${PACKAGE}/${VERSION}'
+        intel-oneapi-mpi: '${PACKAGE}/${VERSION}'
+        inte-mpi: '${PACKAGE}/${VERSION}'
+        intel-oneapi-ipp: '${PACKAGE}/${VERSION}'
+        intel-oneapi-tbb: '${PACKAGE}/${VERSION}'
+        intel-oneapi-vtune: '${PACKAGE}/${VERSION}'
+        openjdk: '${PACKAGE}/${VERSION}'
+        intel-mkl: '${PACKAGE}/${VERSION}'
+      all:
+        suffixes:
+          ^python@3.8.12: 'python-3.8.12'
+          ^openblas: 'openblas'
+      whitelist: ['openjdk','openblas','intel-oneapi-vtune','intel-oneapi-compilers','intel-oneapi-ipp','intel-oneapi-tbb','intel-oneapi-mkl','intel-oneapi-mpi','intel','inte-mpi','intel-mkl','mpileaks', 'llvm','fftw','openmpi','gcc']
+      blacklist: ['%gcc']
+    # Default configurations if lmod is enabled
+    lmod:
+      hierarchy:
+        - mpi
+
