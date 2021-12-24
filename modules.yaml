@@ -32,7 +32,9 @@ modules:
         suffixes:
           ^python@3.8.12: 'python-3.8.12'
           ^openblas: 'openblas'
-      whitelist: ['miniconda2','cudnn','cuda','openjdk','openblas','intel-oneapi-vtune','intel-oneapi-compilers','intel-oneapi-ipp','intel-oneapi-tbb','intel-oneapi-mkl','intel-oneapi-mpi','intel','intel-mpi','intel-mkl','mpileaks', 'llvm','fftw','openmpi','gcc']
+          ^openmpi: 'openmpi'
+          ^hdf5: 'hdf5'
+      whitelist: ['openjdk','hdf5','netcdf-c','netcdf-fortran','parallel-netcdf','miniconda2','cudnn','cuda','openjdk','openblas','intel-oneapi-vtune','intel-oneapi-compilers','intel-oneapi-ipp','intel-oneapi-tbb','intel-oneapi-mkl','intel-oneapi-mpi','intel','intel-mpi','intel-mkl','mpileaks', 'llvm','fftw','openmpi','gcc']
       blacklist: ['%gcc']
     # Default configurations if lmod is enabled
     lmod:
