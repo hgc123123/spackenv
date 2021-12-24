@@ -19,17 +19,20 @@ modules:
         intel-oneapi-compilers: '${PACKAGE}/${VERSION}'
         intel-oneapi-mkl: '${PACKAGE}/${VERSION}'
         intel-oneapi-mpi: '${PACKAGE}/${VERSION}'
-        inte-mpi: '${PACKAGE}/${VERSION}'
+        intel-mpi: '${PACKAGE}/${VERSION}'
         intel-oneapi-ipp: '${PACKAGE}/${VERSION}'
         intel-oneapi-tbb: '${PACKAGE}/${VERSION}'
         intel-oneapi-vtune: '${PACKAGE}/${VERSION}'
         openjdk: '${PACKAGE}/${VERSION}'
         intel-mkl: '${PACKAGE}/${VERSION}'
+        cuda: '${PACKAGE}/${VERSION}'
+        cudnn: '${PACKAGE}/${VERSION}'
+        miniconda2: '${PACKAGE}/${VERSION}'
       all:
         suffixes:
           ^python@3.8.12: 'python-3.8.12'
           ^openblas: 'openblas'
-      whitelist: ['openjdk','openblas','intel-oneapi-vtune','intel-oneapi-compilers','intel-oneapi-ipp','intel-oneapi-tbb','intel-oneapi-mkl','intel-oneapi-mpi','intel','inte-mpi','intel-mkl','mpileaks', 'llvm','fftw','openmpi','gcc']
+      whitelist: ['miniconda2','cudnn','cuda','openjdk','openblas','intel-oneapi-vtune','intel-oneapi-compilers','intel-oneapi-ipp','intel-oneapi-tbb','intel-oneapi-mkl','intel-oneapi-mpi','intel','intel-mpi','intel-mkl','mpileaks', 'llvm','fftw','openmpi','gcc']
       blacklist: ['%gcc']
     # Default configurations if lmod is enabled
     lmod:

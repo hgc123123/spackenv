@@ -2,7 +2,7 @@ config:
   # This is the path to the root of the Spack install tree.
   # You can use $spack here to refer to the root of the spack instance.
   install_tree:
-    root: /dssg/opt/software/install 
+    root: /dssg/opt/icelake 
     projections:
       all: "${ARCHITECTURE}/${COMPILERNAME}-${COMPILERVER}/${PACKAGE}-${VERSION}-${HASH}"
   # Locations where templates should be found
@@ -13,7 +13,7 @@ config:
   # `spack clean -a`, so it is important that the specified directory uniquely
   # identifies Spack staging to avoid accidentally wiping out non-Spack work.
   module_roots:
-    tcl: /dssg/share/spack/modules
+    tcl: /dssg/share/spack/modules/icelake
     lmod: /dssg/share/spack/lmod 
   build_stage:
     - $tempdir/$user/spack-stage

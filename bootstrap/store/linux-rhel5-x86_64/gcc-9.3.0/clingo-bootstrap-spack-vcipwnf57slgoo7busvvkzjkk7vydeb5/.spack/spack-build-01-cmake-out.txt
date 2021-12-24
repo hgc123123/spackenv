@@ -1,0 +1,33 @@
+==> clingo-bootstrap: Executing phase: 'cmake'
+==> [2021-06-17-19:21:20.841548] '/opt/python/cp36-cp36m/bin/python3.6' '-c' 'from distutils.sysconfig import get_python_inc; print(get_python_inc())'
+==> [2021-06-17-19:21:20.913291] 'cmake' '-G' 'Unix Makefiles' '-DCMAKE_INSTALL_PREFIX:STRING=/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5' '-DCMAKE_BUILD_TYPE:STRING=Release' '-DCMAKE_INTERPROCEDURAL_OPTIMIZATION:BOOL=OFF' '-DCMAKE_VERBOSE_MAKEFILE:BOOL=ON' '-DCMAKE_INSTALL_RPATH_USE_LINK_PATH:BOOL=OFF' '-DCMAKE_INSTALL_RPATH:STRING=/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib;/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64;/opt/python/cp36-cp36m/lib' '-DCMAKE_PREFIX_PATH:STRING=/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/bison-3.7.6-wzq5kc5jnv66vfmqyhxpktdpdzaxipmk;/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/re2c-1.2.1-7vzetxgvwn2w4budc2jzelokynaxi434;/home/spack/.local;/opt/python/cp36-cp36m' '-DCLINGO_REQUIRE_PYTHON=ON' '-DCLINGO_BUILD_WITH_PYTHON=ON' '-DPYCLINGO_USER_INSTALL=OFF' '-DPYCLINGO_USE_INSTALL_PREFIX=ON' '-DCLINGO_BUILD_WITH_LUA=OFF' '-DCLINGO_BUILD_PY_SHARED:STRING=OFF' '-DPython_EXECUTABLE:STRING=/opt/python/cp36-cp36m/bin/python3.6' '-DPython_INCLUDE_DIR:STRING=/opt/python/cp36-cp36m/include/python3.6m' '-DCLINGO_BUILD_APPS:STRING=OFF' '/tmp/spack/spack-stage/spack-stage-clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/spack-src'
+-- The C compiler identification is GNU 9.3.0
+-- The CXX compiler identification is GNU 9.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /home/spack/spack/lib/spack/env/gcc/gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /home/spack/spack/lib/spack/env/gcc/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Python: /opt/python/cp36-cp36m/bin/python3.6 (found version "3.6.13") found components: Interpreter Development Development.Module Development.Embed 
+-- Found BISON: /home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/bison-3.7.6-wzq5kc5jnv66vfmqyhxpktdpdzaxipmk/bin/bison (found suitable version "3.7.6", minimum required is "2.5") 
+-- Found RE2C: /home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/re2c-1.2.1-7vzetxgvwn2w4budc2jzelokynaxi434/bin/re2c (found suitable version "0.102.1", minimum required is "0.13") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Potassco is not installed - using local copy
+Doxygen disabled for Spack build.
+Doxygen disabled for Spack build.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/spack/spack-stage/spack-stage-clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/spack-build-vcipwnf
