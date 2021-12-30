@@ -1,0 +1,31 @@
+==> patchelf: Executing phase: 'configure'
+==> [2021-12-24-08:10:44.449571] '/tmp/rpm/spack-stage/spack-stage-patchelf-0.13-4cadnl7q7aaukniwnnjbkgyy7nrt72hc/spack-src/configure' '--prefix=/lustre/home/rpm/.spack/bootstrap/store/linux-centos8-icelake/gcc-8.5.0/patchelf-0.13-4cadnl7q7aaukniwnnjbkgyy7nrt72hc'
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /usr/bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking whether make supports the include directive... yes (GNU style)
+checking for gcc... /dssg/opt/software/packet/spack/lib/spack/env/gcc/gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether /dssg/opt/software/packet/spack/lib/spack/env/gcc/gcc accepts -g... yes
+checking for /dssg/opt/software/packet/spack/lib/spack/env/gcc/gcc option to accept ISO C89... none needed
+checking whether /dssg/opt/software/packet/spack/lib/spack/env/gcc/gcc understands -c and -o together... yes
+checking dependency style of /dssg/opt/software/packet/spack/lib/spack/env/gcc/gcc... gcc3
+checking whether we are using the GNU C++ compiler... yes
+checking whether /dssg/opt/software/packet/spack/lib/spack/env/gcc/g++ accepts -g... yes
+checking dependency style of /dssg/opt/software/packet/spack/lib/spack/env/gcc/g++... gcc3
+checking dependency style of /dssg/opt/software/packet/spack/lib/spack/env/gcc/gcc... gcc3
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating tests/Makefile
+config.status: creating patchelf.spec
+config.status: executing depfiles commands

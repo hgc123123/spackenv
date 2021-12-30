@@ -1,0 +1,712 @@
+{
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/include": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/include/clingo.hh": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "7NEPMRRMJT65XJKN7ULCAB6YCDIXRWBH",
+  "time": 1623956867.0,
+  "size": 226750
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/include/clingo.h": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "2SZQ33234RMDEXB3R5UMLYKFZLDLUHD4",
+  "time": 1623956867.0,
+  "size": 192647
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64/cmake": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64/libclingo.so": {
+  "mode": 33261,
+  "owner": 500,
+  "group": 500,
+  "type": "link",
+  "dest": "libclingo.so.4"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64/libclingo.so.4.0": {
+  "mode": 33261,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "TQW7BUQXBCPNLGBHVVCARQEVG63BMNFS",
+  "time": 1623957916.0,
+  "size": 15712417
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64/libclingo.so.4": {
+  "mode": 33261,
+  "owner": 500,
+  "group": 500,
+  "type": "link",
+  "dest": "libclingo.so.4.0"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64/cmake/Clingo": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64/cmake/Clingo/ClingoConfigVersion.cmake": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "NQ3TQRFRRSGUX5YU3B55J2DOCJU6BFB3",
+  "time": 1623957683.0,
+  "size": 2742
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64/cmake/Clingo/ClingoTargets-release.cmake": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "CWZ3UQO3TSOTC6WXA54GGKKUTXJM2MDG",
+  "time": 1623957683.0,
+  "size": 813
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64/cmake/Clingo/ClingoConfig.cmake": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "TEX4HIEEVDM3NWLTDVZMA25NHKGDEVJL",
+  "time": 1623957683.0,
+  "size": 1026
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib64/cmake/Clingo/ClingoTargets.cmake": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "MHV2PPGJVCQONTYH74BPHOFMZXRLFPQR",
+  "time": 1623957683.0,
+  "size": 3238
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib/perl5": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib/python3.6": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib/python3.6/site-packages": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib/python3.6/site-packages/clingo": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib/python3.6/site-packages/clingo.cpython-36m-x86_64-linux-gnu.so": {
+  "mode": 33261,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "VI5CJWWT6S3NU5RTQXSURXLFCYVWR3EA",
+  "time": 1623957942.0,
+  "size": 10480053
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib/python3.6/site-packages/clingo/types.pyi": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "HJVPBS27OMW366DC4MAENWOYEHGKMRRN",
+  "time": 1623956867.0,
+  "size": 531
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib/python3.6/site-packages/clingo/ast.pyi": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "G76DFCPWMO22XL47OGZLYNIDE5LVNZTZ",
+  "time": 1623956867.0,
+  "size": 6252
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib/python3.6/site-packages/clingo/py.typed": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+  "time": 1623956867.0,
+  "size": 0
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/lib/python3.6/site-packages/clingo/__init__.pyi": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "PWE5GDSJD54HBKL4W3WKUWCHG4Q5FT3Y",
+  "time": 1623956867.0,
+  "size": 13019
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/archived-files": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/spack-build-02-build-out.txt": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "3Z2XSJR7JWWPSLDPSMT3RPAPHPOMVOU3",
+  "time": 1623957942.520113,
+  "size": 124056
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/spack-build-03-install-out.txt": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "MYF52GVPMFQB2J3OSQL7NMOQTR7VDA33",
+  "time": 1623957942.520113,
+  "size": 19178
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/spack-build-out.txt": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "26FVSHOBKVQANDGDQ6VERPWCZAOXOU4S",
+  "time": 1623957942.520113,
+  "size": 146604
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/spack-build-env.txt": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "J36GEJ5UVETIVLDOICKSILKEHLLZ7APP",
+  "time": 1623957942.520113,
+  "size": 5556
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/spack-configure-args.txt": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "FXJTSTXQ4MGBIJPX6DTEC2SN2AFYB2P4",
+  "time": 1623957942.520113,
+  "size": 346
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/spack-build-01-cmake-out.txt": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "5Y6V5CKXO7VHGGKRB3CFB7ES4Y4AMWVX",
+  "time": 1623957942.520113,
+  "size": 3370
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/spec.yaml": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "73FMPAZRZ4ISRWGUCC6YISWHURWISSIB",
+  "time": 1623957679.8683422,
+  "size": 10651
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/install_environment.json": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "OV3GCVENFHG4JQYUOV6SOGUCKOBXLLBO",
+  "time": 1623957679.9683414,
+  "size": 222
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/archived-files/spack-build-vcipwnf": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/archived-files/spack-build-vcipwnf/CMakeCache.txt": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "UN4FWRFJ2IMQMPR5Y7APX623YIUM32HS",
+  "time": 1623957942.520113,
+  "size": 25941
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/repo.yaml": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "SYEJ465DCBLME3XIEFD67JI7A5COYDEO",
+  "time": 1623957942.520113,
+  "size": 29
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/ncurses": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/perl": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/pkgconf": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/diffutils": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/gdbm": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/re2c": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/libiconv": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/readline": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/clingo-bootstrap": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/libsigsegv": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/berkeley-db": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/m4": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/bison": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/ncurses/sed_pgi.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "EPENQM2P6U6IDQY3BHWE74RLZKSCMULC",
+  "time": 1623956356.031946,
+  "size": 365
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/ncurses/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "QHCA6YHA6TOOANPD7XI3XVME7D3QT3CU",
+  "time": 1623956356.031946,
+  "size": 5925
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/ncurses/patch_gcc_5.txt": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "3Q4NWUYSBKRH3VCEGGU2HMFRFNFQQNK3",
+  "time": 1623956356.031946,
+  "size": 711
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/perl/nvhpc-5.30.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "E6YHR3YBQO7KVYTNFXWJCHE63HCTONS3",
+  "time": 1623956782.816962,
+  "size": 3433
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/perl/protect-quotes-in-ccflags.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "2A2HM6DAMJRQINKVZTF6F2QLIERIQA5T",
+  "time": 1623956782.816962,
+  "size": 1048
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/perl/macos-11-version-check.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "NXZZYSPXH24EHPLQFUIB2NDZ3VS7NHPA",
+  "time": 1623956782.816962,
+  "size": 1488
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/perl/nvhpc-5.32.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "NCUF4MS2D2AJEWT2MVR6SBXUGYBR6LT6",
+  "time": 1623956782.816962,
+  "size": 1725
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/perl/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "ZPIFU3RIVNW4EFL2YI36W6QDXRJOLOTH",
+  "time": 1623956782.816962,
+  "size": 16475
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/pkgconf/nvhpc.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "KCKKTCAELBQEBOGNINTAC3BSI6CQUXII",
+  "time": 1623955882.257905,
+  "size": 391
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/pkgconf/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "L55GV7MRPU3G5ML3PO72E2X3ID5ISLYE",
+  "time": 1623955882.257905,
+  "size": 2979
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/diffutils/nvhpc.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "UYEPT5QDHV4QY5SMM3ATWCUVIU2ZS6RX",
+  "time": 1623956007.655504,
+  "size": 1473
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/diffutils/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "SCFSRA26E5RHLDM24FVXACMLCOMXBFC5",
+  "time": 1623956007.655504,
+  "size": 1246
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/gdbm/gdbm.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "FFVONJP2JMR4BQT22UYLDGYP2MLQV7DB",
+  "time": 1623956423.324802,
+  "size": 362
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/gdbm/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "BDN4Y6AQA4PXOPNWNRMVFVLZGCQYUEDJ",
+  "time": 1623956423.324802,
+  "size": 2255
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/re2c/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "6AKRHVCUJGK5D6RVFM5ISAFUZKZ4GHHS",
+  "time": 1623955949.086759,
+  "size": 655
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/libiconv/gets.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "4RQOBWIW7AEKGXUFGEOZIJ6OSDBSFWI6",
+  "time": 1623955707.463676,
+  "size": 400
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/libiconv/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "XDTP25F3UKJDUTR7AIIFTZ2BBDU7GAMU",
+  "time": 1623955707.467676,
+  "size": 1276
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/readline/readline-6.3-upstream_fixes-1.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "23RQBTLPP756NAFPIAFZRCK2FK7K5XIQ",
+  "time": 1623956385.120316,
+  "size": 3145
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/readline/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "CO2L2TLGUYBDZVJGWLOUJOMTGJK4MQPP",
+  "time": 1623956385.120316,
+  "size": 1954
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/clingo-bootstrap/python38.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "JTEQ5LJMZGAR4KBEKHORYJROKNDUHOT7",
+  "time": 1623957942.5241132,
+  "size": 715
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/clingo-bootstrap/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "YCQ7XDA5TVMXIPMMNNEOSYPDHW3UW5NG",
+  "time": 1623957942.5241132,
+  "size": 2595
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/libsigsegv/patch.new_config_guess": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "CIPBU4AEITPDNLZJB4OQ5VHKQPQK4SCF",
+  "time": 1623955729.155981,
+  "size": 38369
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/libsigsegv/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "GPEN6MY2XGWJY2ECHR2FDTEAJ4EOIWAX",
+  "time": 1623955729.155981,
+  "size": 2997
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/berkeley-db/drop-docs.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "N7FNEZ3XOMNTGRN43ZWOC2MVV2FEOUYI",
+  "time": 1623955856.105572,
+  "size": 710
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/berkeley-db/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "LQMF5G4HVGDW4HYOIBXLP4OMYLOBK7HK",
+  "time": 1623955856.105572,
+  "size": 3211
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/m4/pgi.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "MNX75O6PKAE7SKRVOEFZQL7QFKZAJUMV",
+  "time": 1623956099.884682,
+  "size": 356
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/m4/gnulib-pgi.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "G7367PNOTLMSBY75Z2ON5QXYMSLF33EN",
+  "time": 1623956099.884682,
+  "size": 7679
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/m4/oneapi.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "WCIAKIL6OMCXLKD4ZKIGLJF2FZDUQSXY",
+  "time": 1623956099.884682,
+  "size": 903
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/m4/nvhpc.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "YRD4VAVUJJG5467WYAGXH5CXZQL3HXNO",
+  "time": 1623956099.888682,
+  "size": 1673
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/m4/secure_snprintf.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "XLHNO5OEJMYHS4MNZN7WWL7KRQLTKLRR",
+  "time": 1623956099.888682,
+  "size": 854
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/m4/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "XVAEKY7KX6QVGTV64LXOHE5B3FDLYBTX",
+  "time": 1623956099.888682,
+  "size": 4229
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/bison/pgi.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "JEJ4OCSKJ6GNLQWFE2TEO2TW6VRJ7IYR",
+  "time": 1623956860.870019,
+  "size": 362
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/bison/nvhpc-3.7.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "X3ISUU5WQSEU54JNZ3QARVPAHQ7WOVWT",
+  "time": 1623956860.870019,
+  "size": 1536
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/bison/package.py": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "V4I4IMKEAZJ5XH2TBECBZRYH7Y6I52I4",
+  "time": 1623956860.870019,
+  "size": 3840
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/bison/parallel.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "2SS36QXGJ6AJIMTJ3JPBMBQ7KG7SYMKB",
+  "time": 1623956860.870019,
+  "size": 3703
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5/.spack/repos/builtin/packages/bison/nvhpc-3.6.patch": {
+  "mode": 33188,
+  "owner": 500,
+  "group": 500,
+  "type": "file",
+  "hash": "VNHL24QFZ4U2PNDOZYJPIJQRF64HIAAC",
+  "time": 1623956860.870019,
+  "size": 1742
+ },
+ "/home/spack/spack/opt/spack/linux-rhel5-x86_64/gcc-9.3.0/clingo-bootstrap-spack-vcipwnf57slgoo7busvvkzjkk7vydeb5": {
+  "mode": 17901,
+  "owner": 500,
+  "group": 500,
+  "type": "dir"
+ }
+}

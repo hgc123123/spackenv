@@ -1,0 +1,8 @@
+{
+ "host_os": "rhel5",
+ "platform": "linux",
+ "host_target": "skylake",
+ "hostname": "buildkitsandbox",
+ "spack_version": "0.16.2-3179-47e9b62b43",
+ "kernel_version": "#35~20.04.1-Ubuntu SMP Wed May 19 06:46:04 UTC 2021"
+}

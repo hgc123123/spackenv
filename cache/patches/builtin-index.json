@@ -8168,14 +8168,6 @@
         "relative_path": "gsl-2.6-cblas.patch"
       }
     },
-    "6f6e6411051846f0e99e5f46e07c78428c4a2a88f51c202b3122972d91452f4c": {
-      "builtin.gdk-pixbuf": {
-        "owner": "builtin.gdk-pixbuf",
-        "level": 1,
-        "working_dir": ".",
-        "relative_path": "docbook-cdn.patch"
-      }
-    },
     "53f21b4da358b0e975921c871f4295e5bfd77eb5098775213e0afd6ac71b5263": {
       "builtin.mitofates": {
         "owner": "builtin.mitofates",
@@ -12872,6 +12864,14 @@
         "level": 1,
         "working_dir": ".",
         "relative_path": "java_Makefile.patch"
+      }
+    },
+    "6f6e6411051846f0e99e5f46e07c78428c4a2a88f51c202b3122972d91452f4c": {
+      "builtin.gdk-pixbuf": {
+        "owner": "builtin.gdk-pixbuf",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "docbook-cdn.patch"
       }
     }
   }

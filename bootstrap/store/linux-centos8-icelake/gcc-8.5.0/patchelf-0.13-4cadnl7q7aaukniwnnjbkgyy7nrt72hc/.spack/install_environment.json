@@ -1,0 +1,8 @@
+{
+  "host_os": "centos8",
+  "platform": "linux",
+  "host_target": "icelake",
+  "hostname": "gpu01.pi.sjtu.edu.cn",
+  "spack_version": "0.17.0",
+  "kernel_version": "#1 SMP Fri Sep 25 19:48:47 UTC 2020"
+}
